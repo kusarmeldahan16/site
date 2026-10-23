@@ -46,3 +46,7 @@ Item     | Value | Quantity
 Computter| 1600  | 3
 Phone    | 12    | 2 
 Pipe     | 1     | 1
+
+
+Мелдахан Каусар
+Гитхаб
